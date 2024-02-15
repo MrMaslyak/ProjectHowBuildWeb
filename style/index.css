@@ -1,0 +1,48 @@
+.container {
+  width: 925px;
+  height: 935px;
+  background-color: white;
+  border: 2px solid green;
+  margin: 0 auto;
+}
+
+body {
+  margin: auto;
+  background-color: gray;
+}
+
+.Da {
+  padding: 0px 190px 0px;
+}
+
+.welcome {
+  font-weight: 900;
+  height: 10px;
+  margin: 0px 0px 0px;
+}
+
+a {
+  color: green;
+}
+
+.Ins {
+  font-weight: 900;
+  height: 10px;
+  margin: 0px 0px 0px;
+}
+
+.To {
+  font-style: italic;
+}
+
+.Open {
+  font-weight: 900;
+}
+
+.Your {
+  text-transform: uppercase;
+}
+
+.Ol {
+  padding: 0px 15px 0px;
+}
